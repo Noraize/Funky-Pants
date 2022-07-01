@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 5be5b7a24b97a074facb5d8d3320b139
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8273118748618837256
+    second: Funky Pants Sprites Updated_0
+  - first:
+      213: 8471900399484079707
+    second: Funky Pants Sprites Updated_1
+  - first:
+      213: -7563926842481294814
+    second: Funky Pants Sprites Updated_2
+  - first:
+      213: -8414150351159047421
+    second: Funky Pants Sprites Updated_3
+  - first:
+      213: -7490928012253089522
+    second: Funky Pants Sprites Updated_4
+  - first:
+      213: -2715088053827917844
+    second: Funky Pants Sprites Updated_5
+  - first:
+      213: 5543362332077045534
+    second: Funky Pants Sprites Updated_6
+  - first:
+      213: 1132952863767840877
+    second: Funky Pants Sprites Updated_7
+  - first:
+      213: -8479131870222609921
+    second: Funky Pants Sprites Updated_8
+  - first:
+      213: 6033886564068291962
+    second: Funky Pants Sprites Updated_9
+  - first:
+      213: 8404831232447691779
+    second: Funky Pants Sprites Updated_10
+  - first:
+      213: 6211768264861475191
+    second: Funky Pants Sprites Updated_11
+  - first:
+      213: -8998971109436869564
+    second: Funky Pants Sprites Updated_12
+  - first:
+      213: -5795624656904490476
+    second: Funky Pants Sprites Updated_13
+  - first:
+      213: 7998070046599853554
+    second: Funky Pants Sprites Updated_14
+  - first:
+      213: 7071340263181384992
+    second: Funky Pants Sprites Updated_15
+  - first:
+      213: 4829685764222570178
+    second: Funky Pants Sprites Updated_16
+  - first:
+      213: -7164279139592822370
+    second: Funky Pants Sprites Updated_17
+  - first:
+      213: 1245004654200898766
+    second: Funky Pants Sprites Updated_18
+  - first:
+      213: 5255510337089639759
+    second: Funky Pants Sprites Updated_19
+  - first:
+      213: 1499097220149267492
+    second: Funky Pants Sprites Updated_20
+  - first:
+      213: 3791804276592862971
+    second: Funky Pants Sprites Updated_21
+  - first:
+      213: -4318283607890466234
+    second: Funky Pants Sprites Updated_22
+  - first:
+      213: -1542896528937795283
+    second: Funky Pants Sprites Updated_23
+  - first:
+      213: -1161362843664362081
+    second: Funky Pants Sprites Updated_24
+  - first:
+      213: 8088258993901674233
+    second: Funky Pants Sprites Updated_25
+  - first:
+      213: 2334541972320777927
+    second: Funky Pants Sprites Updated_26
+  - first:
+      213: 6252986681779811761
+    second: Funky Pants Sprites Updated_27
+  - first:
+      213: 8670367349550473892
+    second: Funky Pants Sprites Updated_28
+  - first:
+      213: 2236077896924082888
+    second: Funky Pants Sprites Updated_29
+  - first:
+      213: 5484251541168194881
+    second: Funky Pants Sprites Updated_30
+  - first:
+      213: 1419661709160881918
+    second: Funky Pants Sprites Updated_31
+  - first:
+      213: -3193595792146458642
+    second: Funky Pants Sprites Updated_32
+  - first:
+      213: -744881099313805109
+    second: Funky Pants Sprites Updated_33
+  - first:
+      213: 4630087623641322707
+    second: Funky Pants Sprites Updated_34
+  - first:
+      213: -1219371215225215421
+    second: Funky Pants Sprites Updated_35
+  - first:
+      213: 7404031076073360496
+    second: Funky Pants Sprites Updated_36
+  - first:
+      213: -3003803663016404703
+    second: Funky Pants Sprites Updated_37
+  - first:
+      213: 5746674484696865976
+    second: Funky Pants Sprites Updated_38
+  - first:
+      213: 5029899626862924243
+    second: Funky Pants Sprites Updated_39
+  - first:
+      213: 6514887308146830107
+    second: Funky Pants Sprites Updated_40
+  - first:
+      213: -2474021651103876471
+    second: Funky Pants Sprites Updated_41
+  - first:
+      213: 895892151658157719
+    second: Funky Pants Sprites Updated_42
+  - first:
+      213: 5742187269144819831
+    second: Funky Pants Sprites Updated_43
+  - first:
+      213: 4293706744137544813
+    second: Funky Pants Sprites Updated_44
+  - first:
+      213: -2971340013502330547
+    second: Funky Pants Sprites Updated_45
+  - first:
+      213: -8319552640739247826
+    second: Funky Pants Sprites Updated_46
+  - first:
+      213: 4035875353453803525
+    second: Funky Pants Sprites Updated_47
+  - first:
+      213: -9060060844995735479
+    second: Funky Pants Sprites Updated_48
+  - first:
+      213: -8815465336663063282
+    second: Funky Pants Sprites Updated_49
+  - first:
+      213: -8170416341028075560
+    second: Funky Pants Sprites Updated_50
+  - first:
+      213: 7410186673000056851
+    second: Funky Pants Sprites Updated_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcc044ba500d270800000000000000
+      internalID: 8273118748618837256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 540
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e0dbbf68c329570800000000000000
+      internalID: 8471900399484079707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 539
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224cd6bc98870790800000000000000
+      internalID: -7563926842481294814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 538
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcf60f5deea3b80800000000000000
+      internalID: -8414150351159047421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 539
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b1a759a0ea0890800000000000000
+      internalID: -7490928012253089522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 540
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce72ea9dcc1125ad0800000000000000
+      internalID: -2715088053827917844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 538
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17bbb8cbaafdec40800000000000000
+      internalID: 5543362332077045534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 536
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c42080ae09bf00800000000000000
+      internalID: 1132952863767840877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 536
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff110b70d72145a80800000000000000
+      internalID: -8479131870222609921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 538
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fa427cdbacb350800000000000000
+      internalID: 6033886564068291962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 539
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3727a975f3a470800000000000000
+      internalID: 8404831232447691779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 540
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ec165352a43650800000000000000
+      internalID: 6211768264861475191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 541
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444330e547b3d1380800000000000000
+      internalID: -8998971109436869564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 531
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41276b1c41ec19fa0800000000000000
+      internalID: -5795624656904490476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b640f45adefe60800000000000000
+      internalID: 7998070046599853554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 435
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df7d8f082722260800000000000000
+      internalID: 7071340263181384992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 435
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce4f312d9d760340800000000000000
+      internalID: 4829685764222570178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 442
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9124dc941e539c90800000000000000
+      internalID: -7164279139592822370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 436
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44a5df225274110800000000000000
+      internalID: 1245004654200898766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 437
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451f938ec25fe840800000000000000
+      internalID: 5255510337089639759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 432
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc5caaafcddc410800000000000000
+      internalID: 1499097220149267492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 150
+        width: 132
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ef1456e13f9430800000000000000
+      internalID: 3791804276592862971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 438
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aeb4810ff5214c0800000000000000
+      internalID: -4318283607890466234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 436
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ca7318c7869ae0800000000000000
+      internalID: -1542896528937795283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 442
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f955c0895a202efe0800000000000000
+      internalID: -1161362843664362081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 435
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1ed693b44f3070800000000000000
+      internalID: 8088258993901674233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 435
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67b6d0e85f56020800000000000000
+      internalID: 2334541972320777927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_27
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 442
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5fbb0e14217c650800000000000000
+      internalID: 6252986681779811761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 330
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e916ba25535870800000000000000
+      internalID: 8670367349550473892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 330
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c233400005280f10800000000000000
+      internalID: 2236077896924082888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 330
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145083a48b9fb1c40800000000000000
+      internalID: 5484251541168194881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_31
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 330
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe12c38dc6a3b310800000000000000
+      internalID: 1419661709160881918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 330
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79de42c811ea3d0800000000000000
+      internalID: -3193595792146458642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 330
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88f733696a9a5f0800000000000000
+      internalID: -744881099313805109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d2169920614040800000000000000
+      internalID: 4630087623641322707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3462a2b175ce31fe0800000000000000
+      internalID: -1219371215225215421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_36
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 226
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4e43190760c660800000000000000
+      internalID: 7404031076073360496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 226
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d3eabb785056d0800000000000000
+      internalID: -3003803663016404703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc58242ff940cf40800000000000000
+      internalID: 5746674484696865976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 120
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d803af0bcdc540800000000000000
+      internalID: 5029899626862924243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 114
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1beac94d77896a50800000000000000
+      internalID: 6514887308146830107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 114
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af35f8a628aadd0800000000000000
+      internalID: -2474021651103876471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79615a05a29de6c00800000000000000
+      internalID: 895892151658157719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_43
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 113
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b52bd5e850bf40800000000000000
+      internalID: 5742187269144819831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 120
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647406e88f469b30800000000000000
+      internalID: 4293706744137544813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 114
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490a44200ea3c6d0800000000000000
+      internalID: -2971340013502330547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29f29eb3f20b8c80800000000000000
+      internalID: -8319552640739247826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083e50404f420830800000000000000
+      internalID: 4035875353453803525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409a9ae9a2344280800000000000000
+      internalID: -9060060844995735479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_49
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 85
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05cd6e8bfc29a580800000000000000
+      internalID: -8815465336663063282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_50
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 7
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d789f560a9dc9e80800000000000000
+      internalID: -8170416341028075560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky Pants Sprites Updated_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318808ba48546d660800000000000000
+      internalID: 7410186673000056851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

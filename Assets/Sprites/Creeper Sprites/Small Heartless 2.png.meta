@@ -1,0 +1,2120 @@
+fileFormatVersion: 2
+guid: f19d6b1d738e34f81b503b2d3bffcbcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6190693055741633882
+    second: Small Heartless 2_0
+  - first:
+      213: -2512192545710156181
+    second: Small Heartless 2_1
+  - first:
+      213: 7460324449042543262
+    second: Small Heartless 2_2
+  - first:
+      213: -860993151221923875
+    second: Small Heartless 2_3
+  - first:
+      213: -3948549958034929511
+    second: Small Heartless 2_4
+  - first:
+      213: -3991800677508004190
+    second: Small Heartless 2_5
+  - first:
+      213: 2018781375274927531
+    second: Small Heartless 2_6
+  - first:
+      213: -8828599209374691772
+    second: Small Heartless 2_7
+  - first:
+      213: -1373531806121965229
+    second: Small Heartless 2_8
+  - first:
+      213: -5560203955727188285
+    second: Small Heartless 2_9
+  - first:
+      213: 9078163335625053551
+    second: Small Heartless 2_10
+  - first:
+      213: 2502097549621557688
+    second: Small Heartless 2_11
+  - first:
+      213: -705517815330616917
+    second: Small Heartless 2_12
+  - first:
+      213: 3394354929972508458
+    second: Small Heartless 2_13
+  - first:
+      213: -5406923830394324963
+    second: Small Heartless 2_14
+  - first:
+      213: 8979847143883116952
+    second: Small Heartless 2_15
+  - first:
+      213: 2734542187190483313
+    second: Small Heartless 2_16
+  - first:
+      213: -8367817636073057136
+    second: Small Heartless 2_17
+  - first:
+      213: -5356933830693248636
+    second: Small Heartless 2_18
+  - first:
+      213: 3427552094402020290
+    second: Small Heartless 2_19
+  - first:
+      213: -6508262938154595098
+    second: Small Heartless 2_20
+  - first:
+      213: -501571269838062222
+    second: Small Heartless 2_21
+  - first:
+      213: -1669860149909029709
+    second: Small Heartless 2_22
+  - first:
+      213: 2269646603800112721
+    second: Small Heartless 2_23
+  - first:
+      213: -2338229471682185084
+    second: Small Heartless 2_24
+  - first:
+      213: -1754127581566568097
+    second: Small Heartless 2_25
+  - first:
+      213: 1905948063470123948
+    second: Small Heartless 2_26
+  - first:
+      213: 4518744489080934839
+    second: Small Heartless 2_27
+  - first:
+      213: 7578108075232456587
+    second: Small Heartless 2_28
+  - first:
+      213: -4331810890656483854
+    second: Small Heartless 2_29
+  - first:
+      213: -2144054901689394210
+    second: Small Heartless 2_30
+  - first:
+      213: -7234630044059289126
+    second: Small Heartless 2_31
+  - first:
+      213: 328863492933932782
+    second: Small Heartless 2_32
+  - first:
+      213: -6367176101887930249
+    second: Small Heartless 2_33
+  - first:
+      213: -6322721912038087556
+    second: Small Heartless 2_34
+  - first:
+      213: 661888942771016169
+    second: Small Heartless 2_35
+  - first:
+      213: 293107498679498281
+    second: Small Heartless 2_36
+  - first:
+      213: 1996322037553101946
+    second: Small Heartless 2_37
+  - first:
+      213: -3461184881929795155
+    second: Small Heartless 2_38
+  - first:
+      213: -3564862080745431417
+    second: Small Heartless 2_39
+  - first:
+      213: 7806004009372860217
+    second: Small Heartless 2_40
+  - first:
+      213: -989211347597599766
+    second: Small Heartless 2_41
+  - first:
+      213: 2476260364042420330
+    second: Small Heartless 2_42
+  - first:
+      213: -3047406752452318182
+    second: Small Heartless 2_43
+  - first:
+      213: -4169098165572372546
+    second: Small Heartless 2_44
+  - first:
+      213: 6161266554810637901
+    second: Small Heartless 2_45
+  - first:
+      213: -3561066323547526670
+    second: Small Heartless 2_46
+  - first:
+      213: 851828314487213745
+    second: Small Heartless 2_47
+  - first:
+      213: 19584833650997699
+    second: Small Heartless 2_48
+  - first:
+      213: 1375060719195226873
+    second: Small Heartless 2_49
+  - first:
+      213: -2873918827585735834
+    second: Small Heartless 2_50
+  - first:
+      213: 5840032858855169615
+    second: Small Heartless 2_51
+  - first:
+      213: 1422355031634885389
+    second: Small Heartless 2_52
+  - first:
+      213: 6459265996265413808
+    second: Small Heartless 2_53
+  - first:
+      213: -4696883616402695587
+    second: Small Heartless 2_54
+  - first:
+      213: -5664115938005176420
+    second: Small Heartless 2_55
+  - first:
+      213: -5676984807166673249
+    second: Small Heartless 2_56
+  - first:
+      213: -1995277359968010627
+    second: Small Heartless 2_57
+  - first:
+      213: 6957216462058619577
+    second: Small Heartless 2_58
+  - first:
+      213: -5259005603467684663
+    second: Small Heartless 2_59
+  - first:
+      213: 4566443937783107885
+    second: Small Heartless 2_60
+  - first:
+      213: 7236696235250480829
+    second: Small Heartless 2_61
+  - first:
+      213: 6680275595043563013
+    second: Small Heartless 2_62
+  - first:
+      213: -2038658884604747987
+    second: Small Heartless 2_63
+  - first:
+      213: 7419771787863854499
+    second: Small Heartless 2_64
+  - first:
+      213: 3018941942961986110
+    second: Small Heartless 2_65
+  - first:
+      213: 6897138350278385895
+    second: Small Heartless 2_66
+  - first:
+      213: -7018506800909459556
+    second: Small Heartless 2_67
+  - first:
+      213: -6299198638914383308
+    second: Small Heartless 2_68
+  - first:
+      213: 3396305364348699219
+    second: Small Heartless 2_69
+  - first:
+      213: -6242543603452533170
+    second: Small Heartless 2_70
+  - first:
+      213: 3652185936940530907
+    second: Small Heartless 2_71
+  - first:
+      213: -5799275738875091414
+    second: Small Heartless 2_72
+  - first:
+      213: 2257123101569049155
+    second: Small Heartless 2_73
+  - first:
+      213: -7767628407248175062
+    second: Small Heartless 2_74
+  - first:
+      213: -1899791974188900847
+    second: Small Heartless 2_75
+  - first:
+      213: 176914979895271050
+    second: Small Heartless 2_76
+  - first:
+      213: -5126283426714799661
+    second: Small Heartless 2_77
+  - first:
+      213: -3239507891989963603
+    second: Small Heartless 2_78
+  - first:
+      213: 7493721534212977065
+    second: Small Heartless 2_79
+  - first:
+      213: -648397780302476335
+    second: Small Heartless 2_80
+  - first:
+      213: -2699440048632822235
+    second: Small Heartless 2_81
+  - first:
+      213: 6762530309784376203
+    second: Small Heartless 2_82
+  - first:
+      213: 8794534061605196696
+    second: Small Heartless 2_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small Heartless 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 464
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aada0b277d361aa0800000000000000
+      internalID: -6190693055741633882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 464
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66df899036e22dd0800000000000000
+      internalID: -2512192545710156181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 464
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92b7565f85688760800000000000000
+      internalID: 7460324449042543262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 464
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7f5b6a432d04f0800000000000000
+      internalID: -860993151221923875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 464
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c175cbbee339c0800000000000000
+      internalID: -3948549958034929511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 464
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c8faee664a98c0800000000000000
+      internalID: -3991800677508004190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 464
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5cf6007f6240c10800000000000000
+      internalID: 2018781375274927531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 464
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4de48bc38a7580800000000000000
+      internalID: -8828599209374691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 464
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594660891c30fce0800000000000000
+      internalID: -1373531806121965229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 464
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb82426ff26d2b0800000000000000
+      internalID: -5560203955727188285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 464
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6518e0a47d1cfd70800000000000000
+      internalID: 9078163335625053551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b97196f67c39b220800000000000000
+      internalID: 2502097549621557688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 463
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94282f84f7536f0800000000000000
+      internalID: -705517815330616917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a277b9223db2b1f20800000000000000
+      internalID: 3394354929972508458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 415
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1870c16c6fb6f4b0800000000000000
+      internalID: -5406923830394324963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891957c6663de9c70800000000000000
+      internalID: 8979847143883116952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 414
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179feca81ab03f520800000000000000
+      internalID: 2734542187190483313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 415
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094dd90d13a8fdb80800000000000000
+      internalID: -8367817636073057136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 415
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a140301958a5b0800000000000000
+      internalID: -5356933830693248636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 414
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38afb487c119f20800000000000000
+      internalID: 3427552094402020290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 415
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec847a07510ea5a0800000000000000
+      internalID: -6508262938154595098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 374
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db2c7669f0a09f0800000000000000
+      internalID: -501571269838062222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 374
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc771c7a0773d8e0800000000000000
+      internalID: -1669860149909029709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 374
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6d21af876f7f10800000000000000
+      internalID: 2269646603800112721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 374
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b8091fa0fc8fd0800000000000000
+      internalID: -2338229471682185084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 374
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597202224618a7e0800000000000000
+      internalID: -1754127581566568097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 374
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabfa736aa9437a10800000000000000
+      internalID: 1905948063470123948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 374
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15c66eb2ec5be30800000000000000
+      internalID: 4518744489080934839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 374
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fefb5d429da2960800000000000000
+      internalID: 7578108075232456587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 374
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5704422f052e3c0800000000000000
+      internalID: -4331810890656483854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb5ed53d69ce32e0800000000000000
+      internalID: -2144054901689394210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93a7e3e4e699b90800000000000000
+      internalID: -7234630044059289126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6dbebba9b509400800000000000000
+      internalID: 328863492933932782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 320
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701d90f11f33a7a0800000000000000
+      internalID: -6367176101887930249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 320
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7424639bed2148a0800000000000000
+      internalID: -6322721912038087556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_35
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 320
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e110a29c708f2900800000000000000
+      internalID: 661888942771016169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 320
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267bc397b3511400800000000000000
+      internalID: 293107498679498281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf2a1f05c54bb10800000000000000
+      internalID: 1996322037553101946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 320
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94f9220b667ffc0800000000000000
+      internalID: -3461184881929795155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e98e333d0178ec0800000000000000
+      internalID: -3564862080745431417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb1fdd94f745c60800000000000000
+      internalID: 7806004009372860217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 280
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebd8aa358d9542f0800000000000000
+      internalID: -989211347597599766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 280
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c02a6ea17d5220800000000000000
+      internalID: 2476260364042420330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 280
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ce3f954bf65b5d0800000000000000
+      internalID: -3047406752452318182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 280
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77357ae436426c0800000000000000
+      internalID: -4169098165572372546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 280
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9bfda947318550800000000000000
+      internalID: 6161266554810637901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_46
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 280
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9e75bcb0d849ec0800000000000000
+      internalID: -3561066323547526670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be41aeb65d42db00800000000000000
+      internalID: 851828314487213745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b0cc6d44954000800000000000000
+      internalID: 19584833650997699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 245
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f289305072351310800000000000000
+      internalID: 1375060719195226873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 245
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f1709d0acd18d0800000000000000
+      internalID: -2873918827585735834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 245
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4edbac71f6fb0150800000000000000
+      internalID: 5840032858855169615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 245
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b36158d583db310800000000000000
+      internalID: 1422355031634885389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 245
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd821733ce3a950800000000000000
+      internalID: 6459265996265413808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 245
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a17fc6c3151deb0800000000000000
+      internalID: -4696883616402695587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa29c60940561b0800000000000000
+      internalID: -5664115938005176420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 194
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e7a85556c4731b0800000000000000
+      internalID: -5676984807166673249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 194
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e3ab200d95f44e0800000000000000
+      internalID: -1995277359968010627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 194
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20186e28ffc8060800000000000000
+      internalID: 6957216462058619577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4158d54424407b0800000000000000
+      internalID: -5259005603467684663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 194
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215c4e31944f5f30800000000000000
+      internalID: 4566443937783107885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6f28162e8ed6460800000000000000
+      internalID: 7236696235250480829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 194
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066844924b15bc50800000000000000
+      internalID: 6680275595043563013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 195
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f90f4bb8a35b3e0800000000000000
+      internalID: -2038658884604747987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 194
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0712212358f660800000000000000
+      internalID: 7419771787863854499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 195
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad6cbb3bf65e920800000000000000
+      internalID: 3018941942961986110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0211779ce87bf50800000000000000
+      internalID: 6897138350278385895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd02e0041499e90800000000000000
+      internalID: -7018506800909459556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 139
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43252e56630c498a0800000000000000
+      internalID: -6299198638914383308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 139
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35202c60cb9122f20800000000000000
+      internalID: 3396305364348699219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462355caa70e59a0800000000000000
+      internalID: -6242543603452533170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 139
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc740172cb2fa230800000000000000
+      internalID: 3652185936940530907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 139
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262fcdf075d48fa0800000000000000
+      internalID: -5799275738875091414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e95b8089e25f10800000000000000
+      internalID: 2257123101569049155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a204db64e17d33490800000000000000
+      internalID: -7767628407248175062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e1557d34592a5e0800000000000000
+      internalID: -1899791974188900847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 77
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5a14ac37847200800000000000000
+      internalID: 176914979895271050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 77
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d131b43268cbd8b0800000000000000
+      internalID: -5126283426714799661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 77
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1dd26cb4fa03d0800000000000000
+      internalID: -3239507891989963603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b57c280c0ff760800000000000000
+      internalID: 7493721534212977065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_80
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4be777ad6007f0800000000000000
+      internalID: -648397780302476335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52607c8f399a98ad0800000000000000
+      internalID: -2699440048632822235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839281cc7559dd50800000000000000
+      internalID: 6762530309784376203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Heartless 2_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931d0332267c0a70800000000000000
+      internalID: 8794534061605196696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
